@@ -17,6 +17,7 @@
 {
     background-color: #3a4452;
     padding: 20px;
+    padding-bottom: 15px;
     border-radius: 6px;
 }
 .calculate form input{
@@ -85,7 +86,9 @@ form input.oprater{
  }
 
 @media (max-width:700px) {
-    .calculate{
-        width: 100%;
-    }
+  
+.calculate
+{
+    padding: 10px;
+}
 }
