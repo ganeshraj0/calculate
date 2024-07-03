@@ -85,7 +85,7 @@ form input.oprater{
     opacity: .9;
  }
 
-@media (min-width:700px) {
+@media (max-width:600px) {
   
 .calculate
 {
