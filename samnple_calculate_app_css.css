@@ -85,10 +85,10 @@ form input.oprater{
     opacity: .9;
  }
 
-@media (max-width:600px) {
+@media (max-width:700px) {
   
 .calculate
 {
-    padding: 10px;
+    padding: 5px;
 }
 }
